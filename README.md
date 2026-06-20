@@ -2,6 +2,9 @@
 matketplace services for agents created and hosted on cloud
 
 ## AgentVerse
+- [fetch.ai github repository](https://github.com/fetchai/)
+- [agentVerse home](https://agentverse.ai/)
+- [agentVerse wallet]()
 
 
 ### Sample Agents in AgentVerse
